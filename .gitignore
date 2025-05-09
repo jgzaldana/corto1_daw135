@@ -1,4 +1,3 @@
 .qodo
 target/
-.mvn/
 *.log
